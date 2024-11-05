@@ -26,11 +26,15 @@ Attrition rate = (sum of attrition count / sum of employee count)
 ### What is Attrition
 Attrition refers to a gradual reduction in the number of employees in a company due to various factors like resignations, retirements, or even deaths, without the company necessarily filling these vacancies. In a business context, attrition is often measured as a percentage and is an indicator of workforce stability.
 
-
-
-
-
-
-
-
+### HR Visualization
 ![HR Dashboard](https://github.com/user-attachments/assets/0a645d0d-38b3-432b-98db-d9a2dbf6c24b)
+
+- Total employee was gotten from employee count
+- Total number of current employee =(Total number of employee - Total number of Attrition), which was displayed using card visual tool
+- Average age was also gotten from CF-age band column, which was made possible by the use of measure
+- Attrition rate = (sum of attrition count / sum of employee count) 16%
+- Doughnut chat showing the attrition count by department
+- Bar chart to visualise the count of attrition count by educational field
+- Pie chart shows the amount of attrition by gender
+
+
